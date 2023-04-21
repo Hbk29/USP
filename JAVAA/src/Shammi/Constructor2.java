@@ -1,6 +1,6 @@
 package Shammi;
 
-public class Constructor2 {
+public class Constructor2 extends Constructor1 {
 	//parametrised constructor
 	
 	int a,b;
