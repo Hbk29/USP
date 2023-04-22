@@ -7,7 +7,7 @@ public class For_each2 {
 		 while(b<=35);
 		 {
 			 b++;
-			 System.out.println("b variable");
+			 System.out.println(b);
 		 }
 
 	}
