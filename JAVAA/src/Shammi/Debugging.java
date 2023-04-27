@@ -12,7 +12,7 @@ public class Debugging {
 		int d =a+b+c;
 		
 		System.out.println(d);
-		System.out.println("end of program");
+		System.out.println("end of progrmmm");
 		
 
 	}

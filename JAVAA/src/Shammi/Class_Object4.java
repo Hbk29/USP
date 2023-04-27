@@ -1,6 +1,6 @@
 package Shammi;
 
-class Employeee
+class Employee
 {
 	public int employee_id;
 	public String employeename;
